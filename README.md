@@ -187,3 +187,4 @@ Located in /docs
 0. [ ] Setup_Instructions.md
 1. [ ] JVM_Basics.md
 2. [ ] Design_Notes.md
+Submission Ready - Final Version
